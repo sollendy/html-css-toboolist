@@ -55,12 +55,54 @@ main{
     font-family: Arial, sans-serif;
     font-weight: 545;
 }
-ul{
-    list-style-type: none;
+li{
+    text-align: none;
 }
-.punti-lista{
-
+.spunta-verde{
+    color: rgb(6, 177, 0);
+    border: solid 1px rgb(6, 177, 0);
+    border-radius: 50%;
+}
+.croce{
+    color: red;
+    border: solid 1px rgb(177, 0, 0);
+    border-radius: 50%;
+}
+.blu-span{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: rgb(81, 161, 252);
+    border-radius: 10px;
+}
+#q1{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: rgb(183, 91, 249);
+    border-radius: 10px; 
+}
+#bolla-verde{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: rgba(87, 172, 72, 0.686);
+    border-radius: 10px; 
+}
+#bolla-arancio{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: rgb(248, 177, 102);
+    border-radius: 10px; 
 }
 #seconda-sez{
     margin-top: 20px;
+}
+.punti-lista li{
+    padding-top: 10px;
 }
