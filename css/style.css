@@ -39,4 +39,12 @@ header{
     border: none;
     border-radius: 4px;
 }
-#
+#sect{
+    height: 29px;
+    width: 90px;
+    font-weight: bold;
+    color: rgb(229, 229, 229);
+    background-color: white;
+    border-radius: 4px;
+    border: solid 2px rgb(227, 227, 227);
+}
