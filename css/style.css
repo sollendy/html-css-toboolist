@@ -4,5 +4,12 @@
     box-sizing: none;
 }
 #logo{
+    margin: 10px 20px;
+}
+#logo h1{
     display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: 18%;
+    font-weight: bold;
+    font-size: 3em;
 }
