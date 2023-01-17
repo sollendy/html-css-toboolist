@@ -10,7 +10,8 @@ body{
     background-color: white;
 }
 #logo{
-    margin: 10px 20px;
+    padding: 10px 20px;
+    background-color: white;
 }
 #logo h1{
     display: inline;
@@ -18,4 +19,7 @@ body{
     vertical-align: 18%;
     font-weight: bold;
     font-size: 3em;
+}
+header{
+    margin-top: 40px;
 }
