@@ -3,6 +3,12 @@
     margin: 0;
     box-sizing: none;
 }
+body{
+    background-color: rgba(244, 244, 244, 0.56);
+}
+.bianchi{
+    background-color: white;
+}
 #logo{
     margin: 10px 20px;
 }
