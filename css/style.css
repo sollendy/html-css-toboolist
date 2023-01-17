@@ -22,4 +22,21 @@ body{
 }
 header{
     margin-top: 40px;
+    padding-left: 40px;
+    padding-top: 13px;
+    padding-bottom: 10px;
 }
+.bianchi{
+    margin-left: 150px;
+    margin-right: 200px;
+}
+#task{
+    height: 29px;
+    width: 80px;
+    background-color: rgb(104, 165, 212);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+}
+#
