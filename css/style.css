@@ -55,6 +55,9 @@ main{
     font-family: Arial, sans-serif;
     font-weight: 545;
 }
+ul{
+    list-style-type: none;
+}
 li{
     text-align: none;
 }
@@ -105,4 +108,24 @@ li{
 }
 .punti-lista li{
     padding-top: 10px;
+}#terza-sez{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-bottom: 40px;
+}
+#bolla-fucsia{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: rgb(248, 102, 234);
+    border-radius: 10px; 
+}
+#bolla-sabbia{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: rgb(143, 168, 43);
+    border-radius: 10px; 
 }
